@@ -5,7 +5,7 @@ title: 5loaves2fish
 subtitle: When you want more
 description: When you want more
 url: http://5loaves2fish.blog
-baseurl: ""
+baseurl: "/5loaves2fish"
 url: "http://5loaves2fish.blog"
 archive: archive
 
@@ -48,3 +48,4 @@ defaults:
 collections:
   pages:
     output: true
+    permalink: /:title/

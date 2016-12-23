@@ -1,1 +1,5 @@
-git add . ; git commit -a -m 'commit' ; git push
+git add . ; git commit -a -m 'code' ; git push
+
+cd _deploy
+
+git add . ; git commit -a -m 'site' ; git push
