@@ -1,5 +1,6 @@
 git add . ; git commit -a -m 'code' ; git push
 
+cp .gitignore _deploy
 cd _deploy
 
 git add . ; git commit -a -m 'site' ; git push
