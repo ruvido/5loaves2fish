@@ -35,8 +35,8 @@ In conclusion, for our wedding we spent about 2,000€, including the offer for 
 
 Yes you can, what do you say?
 
-
+<!--
 
 UPDATE: For the favors we announce two beautiful initiatives, perfectly in keeping with a Franciscan wedding:
 - The favors and announcements of 5loaves2fish, a nice way to help this project.
-- Missionary favors. The proceeds are used to support the Franciscan missions abroad.
+- Missionary favors. The proceeds are used to support the Franciscan missions abroad. -->
