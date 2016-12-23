@@ -1,0 +1,14 @@
+_deploy
+_design
+_theme
+
+.sass-cache
+.jekyll-metadata
+
+*.gem
+.bundle
+.sass-cache
+Gemfile.lock
+
+.DS_Store
+Icon?
