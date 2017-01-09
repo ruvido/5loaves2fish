@@ -5,7 +5,8 @@ title: 5loaves2fish
 subtitle: When you want more
 description: When you want more
 url: http://5loaves2fish.blog
-baseurl: "/5loaves2fish"
+# baseurl: "/5loaves2fish"
+baseurl: ""
 url: "http://5loaves2fish.blog"
 archive: archive
 
