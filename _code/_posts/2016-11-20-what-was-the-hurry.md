@@ -1,6 +1,7 @@
 ---
 title: What was the hurry?
 author: Alescanca
+image: /images/posts/what-was-the-hurry.jpg
 summary: I still remember my dad when he noticed my engagement ring, which Francesco bought on the Tiburtina Road in Rome, and which we exchanged in secret in the Portiuncola Church with Fr. Massimo.
 id: 9
 suggested: [11,234]

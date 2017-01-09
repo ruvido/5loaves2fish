@@ -1,5 +1,6 @@
 ---
 title: Is he the one?
+image: /images/posts/is-he-the-one.jpg
 author: Alescanca
 summary: Where is this great guy you want to find next to you every morning of your life when you wake up? Where can I find that kind, romantic, funny, determined, confident, sweet and thoughtful man?
 id: 11

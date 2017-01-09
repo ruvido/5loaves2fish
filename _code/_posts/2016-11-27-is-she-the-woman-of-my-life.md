@@ -1,5 +1,6 @@
 ---
 title: Is she the woman of my life?
+image: /images/posts/is-she-the-woman-of-my-life.jpg
 author: Ruvido
 summary: How do you understand if she is the right one? What is unique about her? What is she like? Sure of finding my way in life, I started a journey of faith under the guidance of a friar I had recently met in Assisi. At that time I had already been through some serious love stories.
 Id: 10
