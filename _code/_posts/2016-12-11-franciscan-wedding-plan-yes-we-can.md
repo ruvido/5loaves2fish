@@ -1,5 +1,5 @@
 ---
-title: Franciscan wedding planX, yes we can!
+title: Franciscan wedding plan, yes we can!
 image: /images/posts/franciscan-wedding-plan-yes-we-can.png
 author: Alescanca
 summary: How much does a wedding cost?! Is it really necessary in order to be happy? Will a big party ensure a lasting marriage?
