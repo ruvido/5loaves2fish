@@ -31,6 +31,7 @@ Let's get into practice.
 
 **Lunch:** if the parish hall has a kitchen, you just have to add some scout friend who knows how to get by in any situation, or some volunteer who doesn’t want to give up the beach house to make you a gift; otherwise caterer, nice paper plates, plastic steam glasses and a bit of creativity. My father, for example, brought wine, my grandmother cheese, we bought some cold cuts from a farm, a friend made the cake, the caterer prepared a lasagna and the second course with a side (900€, waiters included, for 80 people).
 
+
 **The entertainer:** a friend who plays the piano bar, a good stereo, etc. Tarantella dance never goes out of fashion...
 
 **The wedding-mobile:** as for the car, your cheap car works fine; polished as it was new, with hitched cans hung on the back, it looks cool ;-)
