@@ -1,6 +1,13 @@
-git add . ; git commit -a -m 'code' ; git push
+git checkout master
+git add -A
+git commit -a -m 'code'
+git push
 
-cp .gitignore _deploy
 cd _deploy
+git checkout gh-pages
+git add -A
+git commit -a -m 'site'
+git push
 
-git add . ; git commit -a -m 'site' ; git push
+cd ..
+git checkout master
