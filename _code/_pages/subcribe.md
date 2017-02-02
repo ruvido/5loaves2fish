@@ -1,6 +1,6 @@
 ---
 title: Not active yet!
-permalink: events
+permalink: subscribe
 ---
 
 <script>

@@ -30,14 +30,15 @@ header:
   logo-img: images/logo/logo.png
   title-img: images/logo/5loaves2fish.png
   subtitle: When you want more
-facebook.image:
 
-facebook.page: https://www.facebook.com/5loaves2fish.blog
+facebook:
+  app_id: 480155522043231
+  page: https://www.facebook.com/5loaves2fish.blog
+  image:
 
 footer:
   script-note: "Crafted with <i class='fa fa-heart'></i> by <a href='http://5p2p.it'>5pani2pesci</a><br>Don't reproduce without permission."
 
-facebook.app_id: 480155522043231
 google_analytics: UA-39520577-2
 
 # <meta property="fb:admins" content="1010218604"/>
