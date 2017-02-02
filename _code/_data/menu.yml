@@ -4,7 +4,7 @@
 
 - name: Events
   # url:  "events"
-  url: "https://www.facebook.com/5loaves2fish.blog"
+  url: "{{site.facebook.page}}"
   class: color-2
 
 - name: Blog
@@ -13,5 +13,5 @@
 
 - name: Donations
   # url:  "donations"
-  url: "https://www.facebook.com/5loaves2fish.blog"
+  url: "{{site.facebook.page}}"
   class: color-4
