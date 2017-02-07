@@ -1,6 +1,8 @@
 ---
+# indeed-he-was-right
 title: Indeed he was right!
 author: Alessandra
+image: /images/posts/indeed-he-was-right.jpg
 summary: "The seven-year itch: I heard so much about that in the early years of our marriage, when our marriage was already hitting the rocks, and I thought —how the hell will that seventh year be?!"   
 id: 7
 suggested: [9, 11, 1]

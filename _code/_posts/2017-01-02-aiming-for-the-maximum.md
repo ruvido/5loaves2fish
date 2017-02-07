@@ -2,6 +2,7 @@
 # aiming-for-the-maximum
 title: Aiming for the maximum
 author: Alessandra
+image: /images/posts/aiming-for-the-maximum.jpg
 summary: Is it true that “it’s always better to have one child and to bring him up well, than to have many and not be able to offer them many opportunities”?
 id: 1
 suggested: [7, 9, 11]

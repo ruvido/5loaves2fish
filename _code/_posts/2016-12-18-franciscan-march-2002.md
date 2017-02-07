@@ -2,6 +2,7 @@
 # franciscan-march-2002
 title: Franciscan March 2002
 author: Francesco
+image: /images/posts/franciscan-march-2002.jpg
 summary: Today we retrace those days that have been so fundamental to our lives... we write it four-handed to try to put together those two worlds that were so different and distant, and that are now so united.
 id: 28
 suggested: [10, 11, 1]
