@@ -1,11 +1,14 @@
 ---
-# aiming-for-the-maximum
 title: Aiming for the maximum
 author: Alessandra
-image: /images/posts/aiming-for-the-maximum.jpg
-summary: Is it true that “it’s always better to have one child and to bring him up well, than to have many and not be able to offer them many opportunities”?
+image: "/images/posts/aiming-for-the-maximum.jpg"
+summary: Is it true that “it’s always better to have one child and to bring him up
+  well, than to have many and not be able to offer them many opportunities”?
 id: 1
-suggested: [7, 9, 11]
+suggested:
+- 7
+- 9
+- 11
 ---
 
 Today a dear friend of mine from Spain commented my third awesome pregnant belly reproaching that only the Romanians, "los moros" and Gypsies get to the third child; and then "There are you guys, I just can’t get you". In fact normal people, those endowed with common sense, realize that today having one child is already a big thing (especially with this crisis), and two are just for the bravest.

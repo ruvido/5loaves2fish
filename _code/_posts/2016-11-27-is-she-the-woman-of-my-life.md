@@ -1,10 +1,14 @@
 ---
 title: Is she the woman of my life?
 author: Francesco
-summary: How do you understand if she is the right one? What is unique about her? What is she like?
-image: /images/posts/is-she-the-woman-of-my-life.jpg
+summary: How do you understand if she is the right one? What is unique about her?
+  What is she like?
+image: "/images/posts/is-she-the-woman-of-my-life.jpg"
 id: 10
-suggested: [9, 11, 28]
+suggested:
+- 9
+- 11
+- 28
 ---
 
 Sure of finding my way in life, I started a journey of faith under the guidance of a friar I had met in Assisi shortly before. At that time I had already been through some serious love stories. However, although I enjoyed dating those girls, I never really considered starting a family or marrying any of them... I didn’t find any interest in such plan, because, let's face it, family life is like a prison! A burdensome life where everything revolves around three things: work, children, and home, the whole package garnished with a car, vacations, and an annoying wife. No adventures, no challenges, no chance to engage with others. Not a fascinating perspective indeed!

@@ -1,11 +1,15 @@
 ---
-# daily-prayer
 title: Daily prayer
 author: Francesco
-summary: I listen to my breath while in silence I close my eyes and I start praying. It is 6:30 A.M., everyone is sleeping, the light of the new day that appears from the window is soft and reassuring. For me, this is the best moment of the day.
-image: /images/posts/daily-prayer.jpg
+summary: I listen to my breath while in silence I close my eyes and I start praying.
+  It is 6:30 A.M., everyone is sleeping, the light of the new day that appears from
+  the window is soft and reassuring. For me, this is the best moment of the day.
+image: "/images/posts/daily-prayer.jpg"
 id: 93
-suggested: [8, 25, 11]  
+suggested:
+- 8
+- 25
+- 11
 ---
 
 Nothing special happens, no particular emotion, but everything simply seems to be **in the right place**. With my eyes closed, I address my heart and my spirit to God. Full of confidence in Him, I let myself be emptied so as to give space to the Lord, **the One who is**. It lasts just half an hour: when the alarm goes off again I prepare an orange juice and try to wake up the rest of the crew. And then, like a fixed schedule, the whole day begins: dress up, pack the backpacks, take the children to school and so forth.  

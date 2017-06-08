@@ -1,13 +1,18 @@
 ---
-# with-eyes-closed-faith-beyond-what-you-see
-image: /images/posts/with-eyes-closed-faith-beyond-what-you-see.jpg
 title: With eyes closed - faith beyond what you see
+image: "/images/posts/with-eyes-closed-faith-beyond-what-you-see.jpg"
 author: Alessandra
-summary: You have seen beauty. The depth and the truth of those words have struck you and have moved you. You have walked, you have fought, you have laughed and cried, you have believed with all your heart that all this was for you, until the day things began to go in a different way than you hoped. Little by little, everything collapsed. But God was not misleading even in this clutter. Keep reading.
+summary: You have seen beauty. The depth and the truth of those words have struck
+  you and have moved you. You have walked, you have fought, you have laughed and cried,
+  you have believed with all your heart that all this was for you, until the day things
+  began to go in a different way than you hoped. Little by little, everything collapsed.
+  But God was not misleading even in this clutter. Keep reading.
 id: 98
-suggested: [25, 93, 1]
+suggested:
+- 25
+- 93
+- 1
 ---
-
 
 You have listened to a beautiful announcement in [Assisi]({{site.baseurl}}/glossary). You have been struck and moved by the depth of those words that went straight into the heart. You have seen a truth in them, a truth about your life. You have realized there’s no use in living for those few things you used to fight for, which gave you nothing but burdens in exchange for false certainties. Maybe you were distant and thanks to the announcement in Assisi you have converted and you’ve approached the Church, that mother that everyone judges. You have encountered the Lord. *You have believed in a great beauty*, in a promise of happiness no one ever made to you.
 

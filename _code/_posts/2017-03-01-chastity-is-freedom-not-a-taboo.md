@@ -1,11 +1,15 @@
 ---
-# chastity-is-freedom-not-a-taboo
 title: Chastity is freedom, not a taboo
 author: Francesco
-image: /images/posts/chastity-is-freedom-not-a-taboo.jpg
-summary: When they told me, right after my conversion, that the Church was against premarital sex I was skeptical. Like many, I thought people in the Church really needed an update. The year was 2001.
+image: "/images/posts/chastity-is-freedom-not-a-taboo.jpg"
+summary: When they told me, right after my conversion, that the Church was against
+  premarital sex I was skeptical. Like many, I thought people in the Church really
+  needed an update. The year was 2001.
 id: 18
-suggested: [9, 10, 25]
+suggested:
+- 9
+- 10
+- 25
 ---
 
 At that time I was dating a girl and for several months an idea had been whirring in my head. I sensed that the relationship between a man and a woman came about through many means of communication. Imagine the two of you as two lakes connected by several channels, with water passing from one basin to the other: there is the channel of talking, the channel of sharing, the channel of discussing... and there's the channel of sex. I knew the latter was by far the one with the largest flow rate. And what happens when a communication branch is way larger than the others? All the water goes through that one channel and all the other smaller streams almost run dry.

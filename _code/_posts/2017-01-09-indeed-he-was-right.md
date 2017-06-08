@@ -1,11 +1,15 @@
 ---
-# indeed-he-was-right
 title: Indeed he was right!
 author: Alessandra
-image: /images/posts/indeed-he-was-right.jpg
-summary: "The seven-year itch: I heard so much about that in the early years of our marriage, when our marriage was already hitting the rocks, and I thought —how the hell will that seventh year be?!"   
+image: "/images/posts/indeed-he-was-right.jpg"
+summary: 'The seven-year itch: I heard so much about that in the early years of our
+  marriage, when our marriage was already hitting the rocks, and I thought —how the
+  hell will that seventh year be?!'
 id: 7
-suggested: [9, 11, 1]
+suggested:
+- 9
+- 11
+- 1
 ---
 
 And then, the other day, I realized that in a warm and rainy autumn of seven years ago, on St Francis’s day, in a chapel in Assisi behind the [Porziuncola Church]({{site.baseurl}}/glossary), we —really the two of us— exchanged a ring and, with a twenty-year-old voice (I was almost 20, Francesco was 27), we promised eternal faithfulness to each other.

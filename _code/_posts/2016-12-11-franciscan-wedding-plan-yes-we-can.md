@@ -1,10 +1,14 @@
 ---
 title: Franciscan wedding plan, yes we can!
-image: /images/posts/franciscan-wedding-plan-yes-we-can.png
+image: "/images/posts/franciscan-wedding-plan-yes-we-can.png"
 author: Alescanca
-summary: How much does a wedding cost?! Is it really necessary in order to be happy? Will a big party ensure a lasting marriage?
+summary: How much does a wedding cost?! Is it really necessary in order to be happy?
+  Will a big party ensure a lasting marriage?
 id: 12
-suggested: [9, 10, 11]
+suggested:
+- 9
+- 10
+- 11
 ---
 
 I heard this sentence a thousand times: "We can’t get married because we’ve got no money", where by **money**, it's meant that for the reception. So: first there is the dress, the restaurant, the flowers, the car, the historic church, the photographer, the entertainment, the honeymoon, etc. Then we should please her mum who couldn’t afford much in her days and now wants her daughter's wedding to be the best one. And don’t forget her family is very large and they are a close family. So, just considering the most intimate ones, they are 150. And what about the little cousins, uncles, aunties, relatives here and relatives there, until the fifth generation on the mom’s side? Well it’s not nice not inviting them, they have been important for me... I absolutely have to find the aunt’s phone number... what was her name??

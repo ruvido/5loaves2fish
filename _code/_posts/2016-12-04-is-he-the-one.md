@@ -1,10 +1,13 @@
 ---
 title: Is he the one?
-image: /images/posts/is-he-the-one.jpg
+image: "/images/posts/is-he-the-one.jpg"
 author: Alescanca
-summary: Where is this great guy you want to find next to you every morning of your life when you wake up? Where can I find that kind, romantic, funny, determined, confident, sweet and thoughtful man?
+summary: Where is this great guy you want to find next to you every morning of your
+  life when you wake up? Where can I find that kind, romantic, funny, determined,
+  confident, sweet and thoughtful man?
 id: 11
-suggested: [10]
+suggested:
+- 10
 ---
 
 And finally, where do I find such a superman willing to pursue me, pursue me? I still have adolescent acne, a butt which is larger than Texas and I have not yet learned how to upload pictures on the computer...
