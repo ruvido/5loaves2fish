@@ -6,7 +6,7 @@ git push
 
 jekyll build
 
-cd _deploy
+cd _site
 git checkout gh-pages
 git add -A
 git commit -a -m 'site'
