@@ -28,7 +28,7 @@ localization:
   read-more: Read more
   see-all-posts: See all posts
 markdown: kramdown
-theme: superwriter
+# theme: superwriter
 gems:
 exclude:
 - Gemfile
