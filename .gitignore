@@ -10,5 +10,6 @@ _theme
 .sass-cache
 Gemfile.lock
 
+desktop.ini
 .DS_Store
 Icon?
