@@ -21,11 +21,10 @@ defaults:
     path: ''
     type: post
   values:
-    supercazzola: ''
-    author: ''
     summary: ''
-    image:
-    links: []
+    author: ''
+    id: ''
+    suggested: []
 
 subtitle: When you want more
 description: When you want more
@@ -46,7 +45,7 @@ header:
 facebook:
   app_id: 480155522043231
   page: https://www.facebook.com/5loaves2fish.blog
-  image: 
+  image:
 footer:
   script-note: Crafted with <i class='fa fa-heart'></i> by <a href='http://5p2p.it'>5pani2pesci</a><br>Don't
     reproduce without permission.
