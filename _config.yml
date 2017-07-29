@@ -24,9 +24,8 @@ defaults:
     supercazzola: ''
     author: ''
     summary: ''
-    image:
+    image: 
     links: []
-
 subtitle: When you want more
 description: When you want more
 url: http://5loaves2fish.blog
