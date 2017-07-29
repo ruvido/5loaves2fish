@@ -22,7 +22,7 @@ However, dating can not be improvised: in order to make sure that love will grow
 
 ## 1. TIME AND SPACE
 
-You need to devote time to a relationship in order to make it work. We too were far from each other: I lived in Zürich(Switzerland) while Alessandra lived first in Basilicata (south of Italy) and then in Rome. Fr Giovanni, who at that time was our spiritual director, gave us a fundamental and primary rule: the **Time and Space** rule. That is: find a way to spend time together without letting too much time pass by between one meeting and the next. Alessandra and I decided that three weeks was the maximum amount of time in between our meetings; letting a month pass without seeing each other was too much. Take advantage of low cost airlines, cattle cars and anything else: you have to see each other regularly and having quality time together. It takes **discipline** (and a bit of organization), but it is crucial to let love grow.
+You need to devote time to a relationship in order to make it work. We too were far from each other: I lived in Zürich (Switzerland) while Alessandra lived first in Basilicata (south of Italy) and then in Rome. Fr Giovanni, who at that time was our spiritual director, gave us a fundamental and primary rule: the **Time and Space** rule. That is: find a way to spend time together without letting too much time pass by between one meeting and the next. Alessandra and I decided that three weeks was the maximum amount of time in between our meetings; letting a month pass without seeing each other was too much. Take advantage of low cost airlines, cattle cars and anything else: you have to see each other regularly and having quality time together. It takes **discipline** (and a bit of organization), but it is crucial to let love grow.
 
 
 ## 2. EQUAL RELATIONSHIP
@@ -37,7 +37,7 @@ And then my friend, don’t forget that the dating period is a trial period. Do 
 
 ## 4. UNDER THE LIGHT OF GOD'S WORD
 
-If it hadn’t been for the Gospel, Alessandra and I would have given up right away on the first day. After the first date and a nice evening spent together, I was assailed by the doubts that what we were doing was impossible to achieve, a simple childish illusion. We faced many obstacles - the age gap and the distance to name a few. But more in general the problem was that we were part of two such distant and different worlds. On the other hand, what united us seemed so weak that in my heart I was determined to give up, not holding on something that —obviously— could not work. This is what I had in my heart when going to Mass together on our first day as dates, the Lord spoke to us like this:
+If it hadn’t been for the Gospel, Alessandra and I would have given up right away on the first day. After the first date and a nice evening spent together, I was assailed by the doubts that what we were doing was impossible to achieve, a simple childish illusion. We faced many obstacles — the age gap and the distance to name a few. But more in general the problem was that we were part of two such distant and different worlds. On the other hand, what united us seemed so weak that in my heart I was determined to give up, not holding on something that —obviously— could not work. This is what I had in my heart when going to Mass together on our first day as dates, the Lord spoke to us like this:
 
 > Take off.. And Simon answered, “Master, we toiled all night and took nothing! But at your word I will let down the nets.” (Lk 5,5)
 
