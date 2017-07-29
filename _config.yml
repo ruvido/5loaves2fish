@@ -9,6 +9,8 @@ collections:
   posts:
     title: Posts
     output: true
+    summary: text here
+    author: someone
   uploads:
     title: Uploads
     output: true
