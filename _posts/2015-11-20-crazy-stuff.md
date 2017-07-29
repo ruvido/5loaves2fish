@@ -8,9 +8,7 @@ suggested:
 - 10
 - 11
 - 12
-summary: I still remember my dad when he noticed my engagement ring, which Francesco
-  bought on the Tiburtina Road, and which we exchanged in secret in the Porziuncola
-  Church with Fr. Massimo.
+summary: Really crazy stuff
 ---
 
 We were sitting at the table when my dad, struck at the sight of that ring, began a true father-to-daughter talk. Trying to figure out what that ring meant, he started by saying how important family is, how the values​​ he and my mom passed down to me are the foundation for life, and how commendable it was that Francesco and I were taking things seriously, BUT... :
