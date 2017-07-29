@@ -1,6 +1,7 @@
 _deploy
 _design
 _theme
+_site
 
 .sass-cache
 .jekyll-metadata
