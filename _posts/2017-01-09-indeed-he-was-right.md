@@ -1,5 +1,6 @@
 ---
 title: Indeed he was right!
+date: 2017-01-09 00:00:00 Z
 author: Alessandra
 image: "/images/posts/indeed-he-was-right.jpg"
 summary: 'The seven-year itch: I heard so much about that in the early years of our

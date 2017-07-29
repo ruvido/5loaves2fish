@@ -1,5 +1,6 @@
 ---
 title: Chastity is freedom, not a taboo
+date: 2017-03-01 00:00:00 Z
 author: Francesco
 image: "/images/posts/chastity-is-freedom-not-a-taboo.jpg"
 summary: When they told me, right after my conversion, that the Church was against

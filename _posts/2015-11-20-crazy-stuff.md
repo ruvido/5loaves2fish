@@ -1,5 +1,6 @@
 ---
 title: Crazy stuff?
+date: 2015-11-20 00:00:00 Z
 author: Alessandra
 image: "/images/posts/what-was-the-hurry.jpg"
 id: 9

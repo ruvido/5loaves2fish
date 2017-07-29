@@ -1,5 +1,6 @@
 ---
 title: Is he the one?
+date: 2016-12-04 00:00:00 Z
 image: "/images/posts/is-he-the-one.jpg"
 author: Alescanca
 summary: Where is this great guy you want to find next to you every morning of your

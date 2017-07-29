@@ -1,5 +1,6 @@
 ---
 title: Franciscan wedding plan, yes we can!
+date: 2016-12-11 00:00:00 Z
 image: "/images/posts/franciscan-wedding-plan-yes-we-can.png"
 author: Alescanca
 summary: How much does a wedding cost?! Is it really necessary in order to be happy?

@@ -1,5 +1,6 @@
 ---
 title: With eyes closed - faith beyond what you see
+date: 2017-03-30 00:00:00 Z
 image: "/images/posts/with-eyes-closed-faith-beyond-what-you-see.jpg"
 author: Alessandra
 summary: You have seen beauty. The depth and the truth of those words have struck

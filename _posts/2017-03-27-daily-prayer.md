@@ -1,5 +1,6 @@
 ---
 title: Daily prayer
+date: 2017-03-27 00:00:00 Z
 author: Francesco
 summary: I listen to my breath while in silence I close my eyes and I start praying.
   It is 6:30 A.M., everyone is sleeping, the light of the new day that appears from

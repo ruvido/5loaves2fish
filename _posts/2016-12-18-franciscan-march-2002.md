@@ -1,5 +1,6 @@
 ---
 title: Franciscan March 2002
+date: 2016-12-18 00:00:00 Z
 author: Francesco
 image: "/images/posts/franciscan-march-2002.jpg"
 summary: Today we retrace those days that have been so fundamental to our lives...
