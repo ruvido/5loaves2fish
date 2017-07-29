@@ -9,8 +9,6 @@ collections:
   posts:
     title: Posts
     output: true
-    summary: text here
-    author: me the author
   uploads:
     title: Uploads
     output: true
@@ -19,6 +17,16 @@ defaults:
     path: ''
   values:
     layout: post
+- scope:
+    path: ''
+    type: post
+  values:
+    supercazzola: ''
+    author: ''
+    summary: ''
+    image:
+    links: []
+
 subtitle: When you want more
 description: When you want more
 url: http://5loaves2fish.blog
