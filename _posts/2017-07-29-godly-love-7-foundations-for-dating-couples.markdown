@@ -6,6 +6,7 @@ summary: Thinking about the new couples of friends who just started dating, and 
   back to my mind. For this reason I decided to write this open letter to those who
   are dating, hoping that their love can blossom to fullness.
 author: Francesco
+image: "/images/posts/godly-love.png"
 id: 43
 suggested:
 - 9
