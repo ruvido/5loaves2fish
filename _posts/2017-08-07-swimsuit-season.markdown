@@ -2,6 +2,7 @@
 title: Swimsuit season, those out of fashion stretch marks
 date: 2017-08-07 16:15:00 Z
 author: Alessandra
+image: "/images/posts/swimsuit-season.jpg"
 id: 19
 suggested:
 - 7
