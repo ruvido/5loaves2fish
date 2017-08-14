@@ -21,7 +21,7 @@ suggested:
 
 * Well, because he's a good guy!
 
-I often talk to dating couples and I hear things like that. And each time, when the final answer "because he's a good guy" arrives, it reminds me of a lady from my town who used to praise his son for being so careful, and so thoughtful for putting such an effort in looking for a job. But actually her "good guy" had left his wife for a young woman and didn’t take care at all of his three-year-old child, and he was living at his mom’s house, letting her provide for him. So much for being a good guy!!!
+I often talk to dating couples and I hear things like that. And each time, when the final answer "because he's a good guy" arrives, it reminds me of a lady from my town who used to praise his son for being so careful and so thoughtful for putting such an effort in looking for a job. But actually her "good guy" had left his wife for a young woman and didn’t take care at all of his three-year-old child, and he was living at his mom’s house, letting her provide for him. So much for being a good guy!!!
 
 Another common answer is the mystic one: "You know, she's important for me because she introduced me to the Lord! I've never had a Christian date before her." This deceives many couples. A Christian engagement is definitely much better because, thanks to chastity, you have a chance to get much more in depth in the relationship and to establish some respect towards the other. BUT… this is not enough. It’s not enough to be Christian in order to get married, or to agree about chastity and go to Sunday Mass. This is not enough! More is needed! Love is needed: caring for one another, respect, desire to be together, wonder, discovery, surprise, adventure, effort, forgiveness, etc.
 
