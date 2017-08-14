@@ -11,9 +11,9 @@ suggested:
 - 48
 ---
 
-- * He is a really insensitive person, he totally doesn’t realize how much he hurts me with that classic chauvinist attitude. *
+- *He is a really insensitive person, he totally doesn’t realize how much he hurts me with that classic chauvinist attitude.*
 - Well, he’s from Puglia… maybe it’s part of his culture and he doesn’t do it on purpose, maybe it's just a cultural attitude.
-- ** No! No! Alessandra, it’s not like that! That's really him! He never understands me! He doesn’t listen to me at all! I do not feel loved by him! He never takes decisions! He is not consistent in his choices! He says one thing and then he pulls back right away! And then... and then... and then... **
+- No! No! Alessandra, it’s not like that! That's really him! He never understands me! He doesn’t listen to me at all! I do not feel loved by him! He never takes decisions! He is not consistent in his choices! He says one thing and then he pulls back right away! And then... and then... and then...
 - Excuse me, then why are you dating him?
 - ** Well, because he's a good guy! **
 
