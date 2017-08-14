@@ -11,11 +11,15 @@ suggested:
 - 48
 ---
 
-+ _He is a really insensitive person, he totally doesn’t realize how much he hurts me with that classic chauvinist attitude._
-+ _Well, he’s from south of Italy… maybe it’s part of his culture and he doesn’t do it on purpose, maybe it's just a cultural attitude._
-+ No! No! Alessandra, it’s not like that! That's really him! He never understands me! He doesn’t listen to me at all! I do not feel loved by him! He never takes decisions! He is not consistent in his choices! He says one thing and then he pulls back right away! And then... and then... and then...
-+ Excuse me, then why are you dating him?
-+ Well, because he's a good guy!
+* He is a really insensitive person, he totally doesn’t realize how much he hurts me with that classic chauvinist attitude.
+
+* Well, he’s from south of Italy… maybe it’s part of his culture and he doesn’t do it on purpose, maybe it's just a cultural attitude.
+
+* No! No! Alessandra, it’s not like that! That's really him! He never understands me! He doesn’t listen to me at all! I do not feel loved by him! He never takes decisions! He is not consistent in his choices! He says one thing and then he pulls back right away! And then... and then... and then...
+
+* Excuse me, then why are you dating him?
+
+* Well, because he's a good guy!
 
 I often talk to dating couples and I hear things like that. And each time, when the final answer "because he's a good guy" arrives, it reminds me of a lady from my town who used to praise his son for being so careful, and so thoughtful for putting such an effort in looking for a job. But actually her "good guy" had left his wife for a young woman and didn’t take care at all of his three-year-old child, and he was living at his mom’s house, letting her provide for him. So much for being a good guy!!!
 
