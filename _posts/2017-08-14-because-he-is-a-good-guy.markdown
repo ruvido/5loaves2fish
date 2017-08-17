@@ -4,6 +4,7 @@ date: 2017-08-14 17:11:00 Z
 summary: After a very long list of negatives, this is the far more common answer girls
   give to the question —Why are you dating him?— ... Uhmmm there is something wrong.
 author: Alessandra
+image: "/images/posts/because-he-is-a-good-guy.jpg"
 id: 55
 suggested:
 - 12
