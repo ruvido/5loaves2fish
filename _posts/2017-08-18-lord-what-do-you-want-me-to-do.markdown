@@ -4,7 +4,7 @@ date: 2017-08-18 20:27:00 Z
 summary: 'Warning: this post contains highly subjective material. You can put it into
   practice at your own risk.'
 author: Francesco
-image: /images/posts/lord-what-do-you-want-me-to-do.jpg
+image: "/images/posts/lord-what-do-you-want-me-to-do.jpg"
 id: 45
 suggested:
 - 9
