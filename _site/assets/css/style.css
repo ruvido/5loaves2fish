@@ -217,11 +217,11 @@ body nav {
     font-size: 0.64rem;
     width: 3.906rem;
     text-align: center;
-    padding: 0.64rem 0.2133333333rem;
+    padding: 0.64rem 0.21333rem;
     border-radius: 0.8rem;
     color: white;
     border: 0px;
-    margin: 0.2133333333rem; }
+    margin: 0.21333rem; }
     @media (min-width: 600px) {
       body nav a {
         margin: 1.25rem;
