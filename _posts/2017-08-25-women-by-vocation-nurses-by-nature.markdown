@@ -19,7 +19,7 @@ These girlfriends’ dinners always end up by saying: "They are not assholes! It
 What we women never miss out is the opportunity to redeem the poor boys from their mistakes. Here is where our crusade begins. Armed of good and very good will, of missionary spirit and a white hat with a large red cross on the head, we start our work of saviors.
 
 * *Look, he even didn’t wish me happy birthday because he was going with his friends to see a football match*
-* Noooo, really?!!! No way, he can’t do this to you! No way! You can’t be treated like that...
+- Noooo, really?!!! No way, he can’t do this to you! No way! You can’t be treated like that...
 * *And then his phone is constantly ringing when we're together. One time it’s his cousin who had a flat tire on the road, and another time it’s his father who needs help to cut the lawn on a Sunday afternoon when he's with me! Then there is also his mother who wants to go visit his grandmother…*
 * Are you sure that Jim has cut his umbilical cord? Are you really his number one? (We all have the so-called five-dollars psychologist girlfriend!!!)
 * *Hmmm, you know, the truth is that he suffered loneliness when he was a child; He used to live far from his grandparents, and his parents have always worked so hard and never spent time with him... poor thing, who knows how much he suffered... but now he won’t suffer anymore because I am at his side, I'll take care of him. I'll change him, he will change with me!*
