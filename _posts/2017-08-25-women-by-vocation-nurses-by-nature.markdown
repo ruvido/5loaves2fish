@@ -1,6 +1,7 @@
 ---
 title: Women by vocation, nurses by nature
 date: 2017-08-25 17:31:00 Z
+published: false
 summary: He will change with me! – This is the signature of us Red Cross nurse women,
   who want to save the world, starting from the man next to us. But our vocation is
   to become real women. God is the one who thinks about saving the world.
