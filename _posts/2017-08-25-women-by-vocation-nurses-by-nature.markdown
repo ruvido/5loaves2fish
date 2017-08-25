@@ -18,31 +18,33 @@ These girlfriends’ dinners always end up by saying: "They are not assholes! It
 
 What we women never miss out is the opportunity to redeem the poor boys from their mistakes. Here is where our crusade begins. Armed of good and very good will, of missionary spirit and a white hat with a large red cross on the head, we start our work of saviors.
 
+* *Look, he even didn’t wish me happy birthday because he was going with his friends to see a football match*
 
-- **Look, he even didn’t wish me happy birthday because he was going with his friends to see a football match*
-- Noooo, really?!!! No way, he can’t do this to you! No way! You can’t be treated like that...
-- *And then his phone is constantly ringing when we're together. One time it’s his cousin who had a flat tire on the road, and another time it’s his father who needs help to cut the lawn on a Sunday afternoon when he's with me! Then there is also his mother who wants to go visit his grandmother…*
-- Are you sure that Jim has cut his umbilical cord? Are you really his number one? (We all have the so-called five-dollars psychologist girlfriend!!!)
-- *Hmmm, you know, the truth is that he suffered loneliness when he was a child; He used to live far from his grandparents, and his parents have always worked so hard and never spent time with him... poor thing, who knows how much he suffered... but now he won’t suffer anymore because I am at his side, I'll take care of him. I'll change him, he will change with me!*
+* Noooo, really?!!! No way, he can’t do this to you! No way! You can’t be treated like that...
 
+* *And then his phone is constantly ringing when we're together. One time it’s his cousin who had a flat tire on the road, and another time it’s his father who needs help to cut the lawn on a Sunday afternoon when he's with me! Then there is also his mother who wants to go visit his grandmother…*
+
+* Are you sure that Jim has cut his umbilical cord? Are you really his number one? (We all have the so-called five-dollars psychologist girlfriend!!!)
+
+* *Hmmm, you know, the truth is that he suffered loneliness when he was a child; He used to live far from his grandparents, and his parents have always worked so hard and never spent time with him... poor thing, who knows how much he suffered... but now he won’t suffer anymore because I am at his side, I'll take care of him. I'll change him, he will change with me!*
 
 Jimmy definitely suffered —who among us didn’t have a great childhood, raise their hand. But who do you want to marry? A kid who you will be a mom for? a guy who shall be saved from its emotional dynamics?... Or a man?
 
-
 ## TWO YEARS AFTER
 
-Two years later everything clearly changes. The in-love period is over and Jim ditched you for the nth time because he had to rush to open the door for his mom, since she can’t open it by herself and she doesn’t want to disturb her neighbor (who already offered her his help). But Jim rushes to her because she is **his mom** and he can’t leave her in times of need: [he's a good guy!]({{site.baseurl}}/because-he-is-a-good-guy) And so, after two years spent justifying him, redeeming him, understanding him, letting him do and always getting the scam of being ditched for someone or something else, you can’t handle it anymore. Having unplugged the justifications disc, now you begin with the one of claims:
+Two years later everything clearly changes. The in-love period is over and Jim ditched you for the nth time because he had to rush to open the door for his mom, since she can’t open it by herself and she doesn’t want to disturb her neighbor (who already offered her his help). But Jim rushes to her because she is **his mom** and he can’t leave her in times of need: [he's a good guy!](%7B%7Bsite.baseurl%7D%7D/because-he-is-a-good-guy) And so, after two years spent justifying him, redeeming him, understanding him, letting him do and always getting the scam of being ditched for someone or something else, you can’t handle it anymore. Having unplugged the justifications disc, now you begin with the one of claims:
 
-- *Do you realize? I gave up tennis for him!*
-- His behavior is unacceptable...
-- *Do you understand! I did 60 miles every Saturday morning to get to his place so that he could rest. And the lunches I had to put up with all his family... if I think that I didn’t move to Perugia to be close to him…* (And then comes the sentence that every authentic Red Cross nurse brings inside herself)... **after all I did for him!**
+* *Do you realize? I gave up tennis for him!*
+
+* His behavior is unacceptable...
+
+* *Do you understand! I did 60 miles every Saturday morning to get to his place so that he could rest. And the lunches I had to put up with all his family... if I think that I didn’t move to Perugia to be close to him…* (And then comes the sentence that every authentic Red Cross nurse brings inside herself)... **after all I did for him!**
 
 Dear Red Cross nurse who lives inside every woman, I know that it’s difficult to abandon this uniform, but you have no choice. I am sure the presiding Jimmy gave you two answers:
 
-
 1. Who asked you to do all this!
-2. You're a pain in the ass! Think about yourself! Stop standing over me!
 
+2. You're a pain in the ass! Think about yourself! Stop standing over me!
 
 ## LOVE IS FREE
 
