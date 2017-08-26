@@ -30,11 +30,11 @@ Jimmy definitely suffered —who among us didn’t have a great childhood, raise
 
 Two years later everything clearly changes. The in-love period is over and Jim ditched you for the nth time because he had to rush to open the door for his mom, since she can’t open it by herself and she doesn’t want to disturb her neighbor (who already offered her his help). But Jim rushes to her because she is **his mom** and he can’t leave her in times of need: [he's a good guy!]({{site.baseurl}}/because-he-is-a-good-guy) And so, after two years spent justifying him, redeeming him, understanding him, letting him do and always getting the scam of being ditched for someone or something else, you can’t handle it anymore. Having unplugged the justifications disc, now you begin with the one of claims:
 
-* *Do you realize? I gave up tennis for him!*
+* Do you realize? I gave up tennis for him!
 
 * His behavior is unacceptable...
 
-* *Do you understand! I did 60 miles every Saturday morning to get to his place so that he could rest. And the lunches I had to put up with all his family... if I think that I didn’t move to Perugia to be close to him…* (And then comes the sentence that every authentic Red Cross nurse brings inside herself)... **after all I did for him!**
+* Do you understand! I did 60 miles every Saturday morning to get to his place so that he could rest. And the lunches I had to put up with all his family... if I think that I didn’t move to Perugia to be close to him… (And then comes the sentence that every authentic Red Cross nurse brings inside herself)... **after all I did for him!**
 
 Dear Red Cross nurse who lives inside every woman, I know that it’s difficult to abandon this uniform, but you have no choice. I am sure the presiding Jimmy gave you two answers:
 
