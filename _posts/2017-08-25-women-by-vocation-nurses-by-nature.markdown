@@ -5,7 +5,7 @@ summary: He will change with me! – This is the signature of us Red Cross nurse
   who want to save the world, starting from the man next to us. But our vocation is
   to become real women. God is the one who thinks about saving the world.
 author: Alessandra
-images: /images/posts/women-by-vocation-nurses-by-nature.jpg
+images: "/images/posts/women-by-vocation-nurses-by-nature.jpg"
 id: 69
 suggested:
 - 11
