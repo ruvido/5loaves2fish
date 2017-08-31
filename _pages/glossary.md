@@ -27,7 +27,7 @@ Small church in Assisi, located within the Basilica of Saint Mary of the Angels.
 
 **Chiara Corbella**:
 Chiara was a young italian mom who died in 2012, when she was 28 years old.
-Chiara and her husband Enrico married in 2008 and had two children who both died 30 minutes after their birth, Maria Grazia Letizia in 2009 and Davide Giovanni in 2010. While pregnant of her third child, Chiara was diagnosed with cancer. She refused any treatment which could endanger the life of her baby and brought the pregnancy to term, giving birth in 2011 to a healthy baby boy, Francesco. Chiara continued to fight cancer more aggressively, leaning together with Enrico on God’s Grace till her death, about one year afterwards
+Chiara and her husband Enrico married in 2008 and had two children who both died 30 minutes after their birth, Maria Grazia Letizia in 2009 and Davide Giovanni in 2010. While pregnant of her third child, Chiara was diagnosed with cancer. She refused any treatment which could endanger the life of her baby and brought the pregnancy to term, giving birth in 2011 to a healthy baby boy, Francesco. Chiara continued to fight cancer more aggressively, leaning together with Enrico on God’s Grace till her death, about one year later.
 Throughout her life and especially while embracing the Cross she encounter, Chiara has been a witness to joy, who has gone through all this with a great faith and love and with the smile on her face. Her beatification process was open on June 13 2017. 
 More information available [here](http://www.chiaracorbellapetrillo.it/en/).
 
