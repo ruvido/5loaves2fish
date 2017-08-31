@@ -7,7 +7,7 @@ suggested:
 - 45
 - 1
 - 25
-image: images/posts/revolution-science.jpg
+image: "/images/posts/revolution-science.jpg"
 ---
 
 I was surprised by the passion driving my colleagues in their fight against deadly diseases such as cancer, AIDS and Alzheimer. I admired their motivation, but at the same time I felt I didn’t have a similar incentive. As crazy as it may sound, I thought that the inevitability of death was so much greater than our efforts that increasing life’s duration by a few years could be considered only a relative success. *Undoubtedly* it is good to relieve pain and to rationally administer medicine to heal people. But this is not the point.
