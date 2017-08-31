@@ -15,7 +15,7 @@ I was surprised by the passion driving my colleagues in their fight against dead
 
 ## The point
 
-I felt the clash of these thoughts but I was incapable of giving them an order. The story of Chiara and Enrico unexpectedly clarified it all in my heart. I realized that *curing* diseases is a very good thing, but that man’s real opportunity does not dwell in the healing, but rather in the *way* we face and live throughout the disease. Even when it leads to its most extreme outcome: death. And yes, this is actually a contradiction: to live death. The fruits of Chiara's death are joy, hope and love. I saw it on the day of her funeral, in the witnessing of her father. I saw it in her husband’s eyes.
+I felt the clash of these thoughts but I was incapable of giving them an order. The story of [Chiara and Enrico]({{site.baseurl}}/glossary) unexpectedly clarified it all in my heart. I realized that *curing* diseases is a very good thing, but that man’s real opportunity does not dwell in the healing, but rather in the *way* we face and live throughout the disease. Even when it leads to its most extreme outcome: death. And yes, this is actually a contradiction: to live death. The fruits of Chiara's death are joy, hope and love. I saw it on the day of her funeral, in the witnessing of her father. I saw it in her husband’s eyes.
 
 
 ## Change of perspective
