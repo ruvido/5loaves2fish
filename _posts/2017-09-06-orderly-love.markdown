@@ -13,7 +13,8 @@ suggested:
 - 48
 ---
 
-*This article has been written after a discussion with our spiritual director and it seemed to us very fruitful to share it here. *
+*This article has been written after a discussion with our spiritual director and it seemed to us very fruitful to share it here.*
+
 In everyday language, we often talk about giving and receiving love, as if love involved something to give. But what is one supposed to give exactly? Is it something of myself that I should give? If it was that, as wonderful as it might be, it would always be something limited, that goes by with time. Is this the kind of love you want to give? Here is the heart of the matter and this is where the concept of **orderly** love comes into play. In fact, the Church teaches us that there is an order of priorities, functional to love, that enables us to fully live the calling to marriage (but these principles are valid for every kind of vocation) and helps us finding the right path in our journey to Love.
 
 Here are the three key points of this priority list.
