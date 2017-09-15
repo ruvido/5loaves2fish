@@ -17,7 +17,7 @@ These days I meditate on the Book of Ruth. The heart of this story is the beauty
 
 Here's the point.
 
-According to our spiritual director,  Fr. Giovanni, this book provides **the pillars to build a healthy and mature love story**. Ruth stands out, yet is not noticed for her flamboyance or external beauty. Nor is she noticed for her intelligence, or for her speaking. Ruth stands out because she spends herself in a mature way. She devotes herself with love to situations of need. **She knows how to love!** There is no [childish hysterical-nurse syndrome]({{site.baseurl}}/Women-by vocation-nurses-by-nature). Ruth does not save the world, does not want to change people, does not want to give something of herself: she begins to **serve in basic needs**. Here you do not take applauses or awards.
+According to our spiritual director,  Fr. Giovanni, this book provides **the pillars to build a healthy and mature love story**. Ruth stands out, yet is not noticed for her flamboyance or external beauty. Nor is she noticed for her intelligence, or for her speaking. Ruth stands out because she spends herself in a mature way. She devotes herself with love to situations of need. **She knows how to love!** There is no [childish hysterical-nurse syndrome]({{site.baseurl}}/women-by-vocation-nurses-by-nature). Ruth does not save the world, does not want to change people, does not want to give something of herself: she begins to **serve in basic needs**. Here you do not take applauses or awards.
 
 The wonderful thing about this story is that Ruth has no further motive. She doesn’t think it is a good strategy or about her own advantage. She does not think she is giving a good impression. Ruth thinks about doing good. She looks at what is needed. Her eyes and her heart are facing upwards. And that **makes people around her fall in love**. This approach provides the guarantee for beauty. It encourages and invites people to get to know her, to enter into a relationship with her, because she **is** beautiful, not just because she  appears beautiful outwardly. It is because she gives off that fragrance of beauty one doesn’t want to give up. Her smile and her eyes are fascinating and beautiful because they are pure.
 
@@ -31,8 +31,7 @@ So you realize that the success of a love story is played **today**, even if you
 
 This is true for men too. It is a necessary reciprocity. You women can be fascinated by a pure man too, who works on himself and waits for you. It can be done! Ten years before he met his wife Lia, Paul recited this spontaneous prayer every day:
 
-> My God, I consecrate my wife to You. Wherever she is, guard her, guide her and protect her. Bring her on a good path. I consecrate her to your Sacred Heart and the Immaculate Heart of Mary. 
-> Paul
+> My God, I consecrate my wife to You. Wherever she is, guard her, guide her and protect her. Bring her on a good path. I consecrate her to your Sacred Heart and the Immaculate Heart of Mary. - Paul
 
 Let us walk every day doing our best. Let us work tirelessly to build our own person. Let us learn to love through the daily gift of ourselves, knowing that God listens to our hearts. Let us ask great things, not have under-developed desires!!
 
