@@ -13,7 +13,7 @@ suggested:
 
 ## 1. The 5 Love Languages: The Secret to Love that Lasts 
 ### Gary Chapman
-This book is absolutely the first of the list. A few years ago Father Giovanni practically forced  us to read it and study it... Gary Chapman summarizes the love languages of every person into 5 main modes. He teaches how to say **I love you** using the love language that your partner understands the most, in order to finally fill his need of love.
+This book is absolutely the first of the list. A few years ago Father Giovanni practically forced  us to read it and study it... Gary Chapman summarizes the love languages of every person into 5 main modes. He teaches how to say *I love you* using the love language that your partner understands the most, in order to finally fill his need of love.
 ---
 ## 2. Brother Francis of Assisi 
 ### Ignacio Larranaga
@@ -21,23 +21,23 @@ At the beginning of my conversion, although I was very fascinated by St. Francis
 ---
 ## 3. I married you 
 ### Walter Trobisch
-The books explains in depth the relationship between Love, Tenderness and Marriage.. Trobisch is a German Protestant pastor who, with the help of his wife, wrote a series of basic books on couple love. 
+The books explains in depth the relationship between Love, Tenderness and Marriage... Trobisch is a German Protestant pastor who, with the help of his wife, wrote a series of basic books on couple love. 
 ---
 ## 4.The Screwtape Letters 
 ### Clive S. Lewis
-Screwtape is a devil who, in a series of letters, suggests and teaches his pupil Wormwood how to try and divert his **patient** from the inspirations of the **Enemy** (God) and his Son (Jesus). It is a genius work that reveals in how many subtle ways we can be distracted from the Lord and his Will despite we are doing holy things. Thanks to this book, I realized for the first time how my way of living the faith was totally immature. A must!
+Screwtape is a devil who, in a series of letters, suggests and teaches his pupil Wormwood how to try and divert his *patient* from the inspirations of the *Enemy* (God) and his Son (Jesus). It is a genius work that reveals in how many subtle ways we can be distracted from the Lord and his Will despite we are doing holy things. Thanks to this book, I realized for the first time how my way of living the faith was totally immature. A must!
 ---
 ## 5. The way of a pilgrim 
 ### Anonymous writer
-"By the grace of God I am a man and a Christian, by my actions I am a great sinner, by vocation I am a pilgrim", this is how the book begins. It is about a man’s search on how to pray **incessantly**, following the exhortation of St. Paul (1 Thess.15,17). This book has helped me a lot in my spiritual journey, making me discover a new aspect of my dialogue with God that I was not familiar with: **the prayer of the heart**. A pilgrimage of the soul that is fascinating to discover.
+"By the grace of God I am a man and a Christian, by my actions I am a great sinner, by vocation I am a pilgrim", this is how the book begins. It is about a man’s search on how to pray *incessantly*, following the exhortation of St. Paul (1 Thess.15,17). This book has helped me a lot in my spiritual journey, making me discover a new aspect of my dialogue with God that I was not familiar with: *the prayer of the heart*. A pilgrimage of the soul that is fascinating to discover.
 ---
 ## 6.Introduction to the Devout Life 
 ### St. Francis de Sales
-This little book represents a practical guide for the faithful who decides to be serious about the Lord. The part that struck me the most is certainly the one that describes the choice between Paradise and Hell that we make every day with our actions. In fact, the mind tends to postpone this thought as if it was something that could be decided at the last moment. Francesco of Sales instead, opens our eyes on how each step is important to get to our **final goal**, and how every step should always be weighted in view of the eternal life. An unbeatable classic, highly recommended.
+This little book represents a practical guide for the faithful who decides to be serious about the Lord. The part that struck me the most is certainly the one that describes the choice between Paradise and Hell that we make every day with our actions. In fact, the mind tends to postpone this thought as if it was something that could be decided at the last moment. Francesco of Sales instead, opens our eyes on how each step is important to get to our *final goal*, and how every step should always be weighted in view of the eternal life. An unbeatable classic, highly recommended.
 ---
 ## 7.Confessions 
 ### Saint Augustine
-When you look at the lives of saints, their actions and their deeds, you often end up thinking, **"all right but that was a saint, that’s why he was able to do certain things..."**. After all, it's a great way to justify our shortcomings. In his Confessions, Saint Augustine tells us the story of his conversion in an authentic and profound manner. He describes how he went from being a successful speaker, lover of pleasure and women, to one of the founding fathers of our faith.
+When you look at the lives of saints, their actions and their deeds, you often end up thinking, *"all right but that was a saint, that’s why he was able to do certain things..."*. After all, it's a great way to justify our shortcomings. In his Confessions, Saint Augustine tells us the story of his conversion in an authentic and profound manner. He describes how he went from being a successful speaker, lover of pleasure and women, to one of the founding fathers of our faith.
 
 ---
 ## 8. Orthodoxy 
