@@ -14,7 +14,9 @@ suggested:
 ## 1. The 5 Love Languages: The Secret to Love that Lasts 
 ### Gary Chapman
 This book is absolutely the first of the list. A few years ago Father Giovanni practically forced  us to read it and study it... Gary Chapman summarizes the love languages of every person into 5 main modes. He teaches how to say *I love you* using the love language that your partner understands the most, in order to finally fill his need of love.
+
 ---
+
 ## 2. Brother Francis of Assisi 
 ### Ignacio Larranaga
 At the beginning of my conversion, although I was very fascinated by St. Francis, I did not really know his story. This is the first book I read about him, recommended by Fr. Max during our first meeting. It is a fascinating narrative about  the conversion and life of St. Francis in an in-depth but agile and flowing style. If you want to go beyond the idea of Francis as the Saint who loved the birds you have to read it.
