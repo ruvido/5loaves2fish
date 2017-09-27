@@ -6,6 +6,7 @@ summary: I have always believed that the success of a love story depends on many
   in particular, that a love story is built long before meeting the beloved one!
 author: Francesco
 id: 111
+image: "/images/posts/letter-to-women-waiting-for-their-beloved.jpg"
 suggested:
 - 28
 - 69
