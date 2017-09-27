@@ -13,7 +13,6 @@ suggested:
 - 11
 ---
 
-
 These days I meditate on the Book of Ruth. The heart of this story is the beauty of this woman, Ruth, who is capable of love. She does not abandon her mother-in-law Naomi, who would have been otherwise doomed to a life of hunger. She is a woman able to leave her homeland (Moab) to go with her. She is a woman who engages herself, is generous, determined, intelligent. Ruth is a woman who gives her all. With these attributes, she journeyed to Bethlehem. Once she had arrived, Ruth went to *glean* in the fields (i.e. to collect what's left on the floor from the crop) to feed herself and Naomi. It is precisely in this act of extreme humility and generosity that Boaz, the owner of the field, noticed her. Ruth proves to be a surprisingly mature woman **capable of love**. These will be her credentials to blow up the love in Boaz’s heart.
 
 Here's the point.
