@@ -1,5 +1,5 @@
 ---
-title: God made us unique and awesome
+title: God made us unique and amazing
 date: 2017-12-21 02:06:00 Z
 summary: What script have you decided to follow in your life? In what predefined way
   are you directing your energy? — You are important! In Christ's name, be yourself!
@@ -30,7 +30,7 @@ As far as I'm concerned, I have experienced many situations in which every prede
 What could I do?
 
 
-## God made us unique and breathtaking!
+## God made us unique and amazing!
 
 The thing about being Christian is that you put your life in God's hands so that a masterpiece may come out of it, with **a beauty and a fullness that you could have never imagined**, even in your highest expectations on yourself. The point is that there is never a predefined rule to face life’s events, but there is always a way to move forward, a path designed specifically for you to discover. Because behind every difficulty, every suffering, every *brokenness*, **there is a grace to experience**. God loves you not only because He is good but because He created you! He conceived you the exact way you are! With that button nose and that messy story. Because the world cannot function without you. **You are important!**
 
