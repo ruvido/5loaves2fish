@@ -2,7 +2,7 @@
 title: God made us unique and awesome
 date: 2017-12-21 02:06:00 Z
 summary: What script have you decided to follow in your life? In what predefined way
-  are you directing your energy? — **You are important! In Christ's name, be yourself!**
+  are you directing your energy? — You are important! In Christ's name, be yourself!
 author: Alessandra
 id: 88
 suggested:
